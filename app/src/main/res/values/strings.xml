@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_contacts">通讯录</string>
+    <string name="title_activity_update_contacts">修改联系人</string>
+    <string name="title_activity_find_dialog">FindDialog</string>
+    <string name="title_activity_contacts_message">ContactsMessageActivity</string>
+    <string name="title_activity_add_contacts">添加联系人</string>
+</resources>
