@@ -18,6 +18,7 @@ public class AddContactsActivity extends Activity {
     private EditText addressET;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
